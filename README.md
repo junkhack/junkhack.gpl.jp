@@ -1,1 +1,1 @@
-# hack.gpl.jp
+# junkhack.gpl.jp
